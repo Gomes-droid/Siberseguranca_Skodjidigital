@@ -4,7 +4,11 @@
 
 <img width="1598" height="1002" alt="Tarefas" src="https://github.com/user-attachments/assets/944ecbeb-7393-42f9-bbca-a1536d5711a8" />
 
+
+
 ---
+
+
 
 ## ss -tuln
 <img width="961" height="363" alt="nmap -sV -sC " src="https://github.com/user-attachments/assets/bedca684-1d13-4f45-9e5d-3752157733da" />
