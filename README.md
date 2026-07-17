@@ -10,7 +10,7 @@ Sessão_1
 
 <img width="1862" height="911" alt="nmap instal" src="https://github.com/user-attachments/assets/48b8a5cc-74b4-4993-92f6-359bdf5c3f5f" />
 
-
+ss -tuln
 <img width="961" height="363" alt="nmap -sV -sC " src="https://github.com/user-attachments/assets/bedca684-1d13-4f45-9e5d-3752157733da" />
 
 
