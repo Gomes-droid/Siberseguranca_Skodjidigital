@@ -15,7 +15,7 @@
 
 
 
-nmap -sV -sC 10.130.151.190
+## nmap -sV -sC 10.130.151.190
 
 <img width="1916" height="905" alt="nmap -sV -sC 10 130 151 190" src="https://github.com/user-attachments/assets/8079a347-a8ec-4b3b-b28c-e06f80d4e758" />
 
