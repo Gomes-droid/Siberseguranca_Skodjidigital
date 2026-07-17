@@ -14,8 +14,17 @@
 <img width="961" height="363" alt="nmap -sV -sC " src="https://github.com/user-attachments/assets/bedca684-1d13-4f45-9e5d-3752157733da" />
 
 
+
+---
+
+
+
+
 <img width="966" height="883" alt="ss -tuln" src="https://github.com/user-attachments/assets/7a09b397-8815-4166-b376-25a540500a02" />
 
+
+
+---
 
 
 
@@ -25,4 +34,8 @@
 
 
 
+---
+
 # Laboratório — Sessão 2
+
+
