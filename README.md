@@ -47,11 +47,17 @@
 
 ---
 
+## cd /var/log/
+
 <img width="1912" height="893" alt="image" src="https://github.com/user-attachments/assets/232ada5f-d507-42ae-b5f5-e19ae68a5096" />
 
 <img width="1142" height="285" alt="image" src="https://github.com/user-attachments/assets/92d9acf5-4a47-4c96-87c9-8e7db1d096ae" />
 
+---
 
 ## grep "Failed password" auth.log
 
 <img width="1125" height="405" alt="image" src="https://github.com/user-attachments/assets/28c1a7bf-a127-471b-b4b5-98ecece14e12" />
+
+---
+
