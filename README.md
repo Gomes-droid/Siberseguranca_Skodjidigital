@@ -68,4 +68,10 @@
 
 ---
 
+## cd /var/log/
+## grep "Failed password" auth.log
+## grep "Failed password" auth.log | awk '{print $11}' | sort | uniq -c | sort -nr
+## grep -E "Accepted password|Accepted publickey" auth.log
+<img width="1042" height="353" alt="image" src="https://github.com/user-attachments/assets/dda3ce18-8e73-464d-8f7f-4fca65b18ff1" />
 
+---
