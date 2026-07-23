@@ -114,25 +114,18 @@ sudo iptables-save | sudo tee /etc/iptables/rules.v4
 
 ## 4. Evidências — validação final
 
-### 4.1. Regras UFW ativas
+### 4.1. Regras UFW ativas e Listagem das chains iptables com contadores
 
 ```bash
-sudo ufw status verbose
+sudo ufw status verbose e sudo iptables -L -v
 ```
 
-```text
-[COLAR AQUI O OUTPUT COMPLETO]
-```
+---
 
-### 4.2. Listagem das chains iptables com contadores
+<img width="1528" height="942" alt="4_Captura de ecrã 2026-07-23 142104" src="https://github.com/user-attachments/assets/09f8ff43-c9af-494a-afc2-b327c442e6c0" />
 
-```bash
-sudo iptables -L -v
-```
 
-```text
-[COLAR AQUI O OUTPUT COMPLETO]
-```
+---
 
 ### 4.3. Capturas de ecrã
 
