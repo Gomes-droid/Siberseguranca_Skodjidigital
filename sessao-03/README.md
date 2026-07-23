@@ -100,9 +100,12 @@ sudo iptables-save | sudo tee /etc/iptables/rules.v4
 
 **Output:**
 
-```text
-[COLAR AQUI O OUTPUT]
-```
+---
+
+<img width="1202" height="925" alt="3_Captura de ecrã 2026-07-23 141646" src="https://github.com/user-attachments/assets/23b5e25e-6a01-4102-b0c5-be0af73f74b8" />
+
+
+---
 
 > As regras do iptables residem em memória e não sobrevivem a um reinício.
 > A exportação para `/etc/iptables/rules.v4` garante a sua reposição no arranque.
