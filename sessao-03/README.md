@@ -71,9 +71,11 @@ sudo ufw allow 22/tcp
 
 **Output:**
 
-```text
-[COLAR AQUI O OUTPUT]
-```
+---
+
+<img width="953" height="313" alt="2_Captura de ecrã 2026-07-23 141342" src="https://github.com/user-attachments/assets/5498c125-28e9-4dab-a4a8-02b7cc1fb31f" />
+
+---
 
 > **Nota de procedimento:** a regra de SSH é criada **antes** da ativação da firewall,
 > para evitar a perda do próprio acesso administrativo à máquina remota.
