@@ -34,7 +34,8 @@ sudo ufw status
 **Output:**
 
 ```text
-[COLAR AQUI O OUTPUT]
+<img width="1093" height="176" alt="image" src="https://github.com/user-attachments/assets/094a5d38-90b4-40f3-aaff-e6bd41fe6284" />
+
 ```
 
 > **Observação:** _[Indicar se a firewall estava `inactive` ou `active`, e se existiam regras prévias.]_
